@@ -1,0 +1,29 @@
+[33mcommit 906afb5993b368a5d330a655480444367255c423[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Jorge González <gonzalezjeljorge@gmail.com>
+Date:   Sun Apr 7 15:50:36 2024 -0400
+
+    elaboracion y cambios en cv
+
+[33mcommit 3d3842363b085395c744df20e8770af3019c1631[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alvaro Cortés Opazo <92953141+donpelusa@users.noreply.github.com>
+Date:   Sat Apr 6 00:16:12 2024 -0300
+
+    Create CNAME
+
+[33mcommit c2eeabe70ab9f00a478b25f43caf28cf84e62aad[m
+Author: Alvaro Pelusa Cortés <alvaro.cortes.opazo@gmail.com>
+Date:   Fri Apr 5 20:01:13 2024 -0300
+
+    Cambio color links acorde a diseño
+
+[33mcommit a39209052cfc34ca853e36f11877dfd44cfa59ca[m
+Author: Alvaro Pelusa Cortés <alvaro.cortes.opazo@gmail.com>
+Date:   Fri Apr 5 19:48:31 2024 -0300
+
+    Creación landing page CV-Portafolio y se agregan recursos. Solo HTML y CSS
+
+[33mcommit e5d75af29a1f6dfc1c947b2228fa47e628291c92[m
+Author: Alvaro Cortés Opazo <92953141+donpelusa@users.noreply.github.com>
+Date:   Fri Apr 5 19:47:49 2024 -0300
+
+    Initial commit
