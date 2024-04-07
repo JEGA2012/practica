@@ -1,2 +1,2 @@
-# donpelusa.github.io
+# JEGA2012.github.io
 Portafolio CV
